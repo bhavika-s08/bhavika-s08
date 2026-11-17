@@ -1,19 +1,17 @@
 <div align="center">
 
 ### Bhavika Suryawanshi
-Computer Engineering @ University of Virginia  
-[LinkedIn](https://linkedin.com) · [Portfolio](https://yourwebsite.com) · [Email](mailto:you@example.com)
+Computer Science @ University of Virginia  
+[LinkedIn](https://www.linkedin.com/in/bhavika-suryawanshi/) · [Portfolio](https://yourwebsite.com) · [Email](mailto:bhavika.bsuraywanshi@gmail.com)
 
 </div>
 
 ---
 
-**about** — First-year Computer Engineering student interested in software engineering, data analytics, and building thoughtful digital tools. Currently exploring machine learning, embedded systems, and web development.
+**about** : first-year computer science student interested in software engineering, data analytics, medical technologies, and building thoughtful digital tools. 
 
 **featured work**
-* **[No Comparison](https://github.com)** — Full-stack mobile application designed to reduce negative social comparison among youth.
-* **[Reducing Waste for Viscous Medications](https://github.com)** — Engineering design project focused on minimizing medical waste.
-* **[Project Three](https://github.com)** — Add a short, one-line summary of another project you enjoy working on.
+* **[No Comparison, UVA MAP Lab & PACT Lab](https://github.com/uvamaplab/no-comparison)** — full-stack mobile application designed to reduce negative social comparison among youth.
 
 **stack & tools**  
-`Python` · `Java` · `C++` · `JavaScript` · `React` · `Pandas` · `Git`
+`Java` · `Python` · `JavaScript` · `React` · `Pandas` · `Git`
