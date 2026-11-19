@@ -1,6 +1,6 @@
 <hr>
 <div align="center">
-  
+
 ### 🦋 Bhavika Suryawanshi 🦋
 **Computer Science @ University of Virginia**
 
@@ -9,13 +9,12 @@
 <hr>
 </div>
 
-**about** : first-year computer science student interested in software engineering, data analytics, medical technologies, and building thoughtful digital tools. 
+**about** : first-year computer science student interested in software engineering, data analytics, medical technologies, and building thoughtful digital tools.
 
-**featured work** : 
+**featured work** :
 
-🔹 **[No Comparison, UVA MAP Lab & PACT Lab](https://github.com/uvamaplab/no-comparison)** 
-
+🔹 **[No Comparison, UVA MAP Lab & PACT Lab](https://github.com/uvamaplab/no-comparison)**<br>
 full-stack mobile application designed to reduce negative social comparison among youth.
 
-**stack & tools** : 
+**stack & tools** :<br>
 `Java` · `Python` · `JavaScript` · `Git`
