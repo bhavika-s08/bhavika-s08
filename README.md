@@ -2,8 +2,7 @@
 <div align="center">
   
 ### 🦋 Bhavika Suryawanshi 🦋
-#### ⚔️ Computer Science @ University of Virginia ⚔️
-
+**Computer Science @ University of Virginia**
 [LinkedIn](https://www.linkedin.com/in/bhavika-suryawanshi/) · [Portfolio](https://yourwebsite.com) · [Email](mailto:bhavika.bsuraywanshi@gmail.com)
 
 ---
