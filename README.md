@@ -13,7 +13,7 @@
 
 **featured work** :
 
-🔹 **[NoComparison, UVA MAP Lab & PACT Lab](https://github.com/uvamaplab/no-comparison)**<br>
+🔹 **[NoComparison, UVA MAP Lab & PACT Lab](https://github.com/uvamaplab)**<br>
 full-stack mobile application designed to reduce negative social comparison among youth.
 
 **stack & tools** :<br>
